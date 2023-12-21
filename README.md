@@ -2,7 +2,7 @@
 
 * Rocketseat Explorer
 * Stage 02
-* Project 01
+* Project 02
 
 ## Technologies
 
