@@ -8,7 +8,7 @@ Project developed on Rocketseat's Explorer course
 
 ## 🔗 Project Links
 
-- 🚀 [**Deploy**](https://emanueltavecia.github.io/train-me)
+- 🚀 [**Deploy**](https://emanueltavecia.github.io/train.me)
 - 🎨 [**Figma**](https://www.figma.com/file/9e8oZ7kkjIt5rkNgz9MPtk/Explorer---Projeto-02/duplicate)
 
 ## 📋 Project information
